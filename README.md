@@ -46,4 +46,4 @@ Atualmente focado em projetos web com HTML, CSS, JavaScript, TypeScript, React e
 
 ### 🔗 Contato
 
-[LinkedIn](https://www.linkedin.com/in/dev-pedrobudziak/)
+[LinkedIn](https://www.linkedin.com/in/pedro-henrique-dos-santos-budziak-80a292298/)
