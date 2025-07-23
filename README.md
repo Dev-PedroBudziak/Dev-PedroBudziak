@@ -1,50 +1,38 @@
-<h1 align="center">Pedro Henrique Budziak 🧑‍💻</h1>
+# 🧑‍💻 Pedro Henrique Budziak
 
-<p align="center">
-  <strong>Desenvolvedor | Técnico em Administração | Estudante SENAI</strong>
-</p>
-
----
-
-### 👋 Sobre mim
-
-Me chamo Pedro Henrique dos Santos Budziak, tenho 16 anos e sou natural do Paraná.  
-Atualmente, curso o Técnico em Desenvolvimento de Sistemas no SENAI Dr. Celso Charuri e Técnico em Administração no CESC.  
-Sou apaixonado por tecnologia, programação e busco constantemente desenvolver minhas habilidades em projetos web e sistemas.
+Estudante de Desenvolvimento de Sistemas (SENAI) e Técnico em Administração (CESC).  
+Apaixonado por tecnologia, programação e resolução de problemas.  
+Atualmente focado em projetos web com HTML, CSS, JavaScript, TypeScript, React e Vue.
 
 ---
 
-### 🚀 Linguagens e Tecnologias
+### 🛠️ Tecnologias
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30px" />
 </p>
 
 ---
 
-### 📊 Estatísticas
+### 📈 GitHub
 
-| Estatísticas do GitHub | Tecnologias |
-|------------------------|-------------|
-| ![Stats](https://github-readme-stats.vercel.app/api?username=Dev-PedroBudziak&show_icons=true&theme=radical&hide_border=true&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-PedroBudziak&layout=compact&theme=radical&hide_border=true&langs_count=8) |
+![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dev-PedroBudziak&show_icons=true&theme=transparent&hide_title=true&hide_border=true)
 
----
-
-### 🌐 Contato
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-pedrobudziak/)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-PedroBudziak&layout=compact&langs_count=10&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-PedroBudziak&layout=compact&theme=transparent&hide_border=true)
 
 ---
 
-### 🌐 Conecte-se comigo:
+### 🔗 Contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-pedrobudziak/)
+[LinkedIn](https://www.linkedin.com/in/dev-pedrobudziak/)
